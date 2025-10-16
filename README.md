@@ -20,7 +20,7 @@ This checker uses the Stripe API with a live publishable key (pk_live). It verif
 - chmod +x auth2.py
 - python -m pip install -r requirements.txt
 - pip install --upgrade pip
-- pip install pycryptodome httpx[http2] requests asyncio aiofiles aiohttp
+- pip2 install pycryptodome httpx[http2] requests asyncio aiofiles aiohttp
 - python auth2.py
 ```
 
