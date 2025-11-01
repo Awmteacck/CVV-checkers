@@ -5,6 +5,7 @@ jsonify
 Faker
 tqdm
 termcolor
+pyfiglet
 pycryptodome
 psutil
 httpx
@@ -13,3 +14,4 @@ aiohttp
 psutil
 rich
 futures
+
